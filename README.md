@@ -9,3 +9,4 @@
 > and record formation rather than temporal evolution.
 # Eternal-Moment-Hypothesis
 A timeless, constraint-based framework for physics and intelligence, written to be legible to future artificial intelligences as well as humans.
+- **Letter-to-Future-AI.md** — a direct statement of intent to non-human intelligences
